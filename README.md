@@ -1,32 +1,47 @@
-# Ritesh Choudhary
-**Frontend Developer | Web Architect**
+# ⚡ Ritesh Choudhary
+**Web Architect in the Making | HTML Specialist**
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ritesh-builds-dev&label=VIEWS&color=0078d4&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=ritesh-builds-dev&label=TOTAL%20VIEWS&color=blueviolet&style=flat-square" />
 </p>
 
 ---
 
-### 🛠 Technical Stack
+### 🚀 About Me
+"Building the web, one tag at a time with precision and passion."
 
-| Category | Tools & Technologies |
+- 🔭 **Focus:** Crafting modern, responsive, and user-friendly web layouts.
+- 📍 **Location:** Mumbai, India.
+- ⚡ **Fact:** I believe in writing clean code that is easy to scale.
+
+---
+
+### 🛠 Tech Stack & Creative Tools
+*These are the tools I use to create digital magic:*
+
+| Category | Skills & Tools |
 | :--- | :--- |
-| **Core Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Libraries** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
-| **Workflow** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| **Languages** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) |
+| **Tools** | ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
 
 ---
 
-### 📊 GitHub Metrics
+### 📊 GitHub Activity
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ritesh-builds-dev&show_icons=true&theme=dark&hide_border=true&title_color=0078d4&icon_color=0078d4" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ritesh-builds-dev&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
 </p>
 
 ---
 
-### 🌐 Connect
+### 🤝 Connect With Me
 <p align="left">
-  <a href="mailto:ritesh@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ritesh-builds-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/ritesh-builds-dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+<a href="mailto:ritesh@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/ritesh-builds-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/ritesh-builds-dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
+
+---
+
+### ⚡ Random Dev Fact
+*The best error message is the one that never shows up.*

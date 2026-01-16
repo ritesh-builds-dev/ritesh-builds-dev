@@ -1,44 +1,45 @@
 <div align="center">
 
-# ⚡ Hi, I'm Ritesh Choudhary!
-**Full Stack Aspirant | HTML Maestro | Creative Developer**
+# ⚡ Ritesh Choudhary
+**Web Architect in the Making | HTML Specialist**
 
-<img src="https://komarev.com/ghpvc/?username=ritesh-builds-dev&label=PROFILE%20VIEWS&color=007ACC&style=for-the-badge" alt="views" />
-
----
-
-### 💡 About My Journey
-"Turning caffeine into clean, semantic code since 2025."
-
-🚀 **Mastered:** HTML5 (The foundation of everything)
-🛠️ **Building:** High-end layouts with CSS3
-🎯 **Next Up:** Dominating JavaScript & React
-📍 **Base:** Mumbai, India
+<img src="https://komarev.com/ghpvc/?username=ritesh-builds-dev&label=TOTAL%20VIEWS&color=blueviolet&style=for-the-badge" />
 
 ---
 
-### 🛠️ My Creative Tool Kit
-*I use these to build the future:*
+### 🚀 My Digital Journey
+"Building the web, one tag at a time."
 
-| Skill | Logo | Mastery |
-| :--- | :---: | :--- |
-| **HTML5** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> | 100% |
-| **CSS3** | <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> | 80% |
-| **JavaScript** | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> | Learning |
-| **React JS** | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> | Future |
-| **VS Code** | <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /> | Daily Tool |
-| **Git** | <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" /> | Basic |
+| Goal | Status |
+| :--- | :--- |
+| 🏗️ **Current** | Creating Modern Web Layouts |
+| ✅ **Mastered** | Semantic HTML5 & Web Structure |
+| 🔭 **Next Step** | JavaScript Logic & React Components |
+| 📍 **Location** | Mumbai, India |
 
 ---
 
-### 📊 My Coding Universe
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=ritesh-builds-dev&show_icons=true&theme=blood_dark&hide_border=true" />
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh-builds-dev&layout=compact&theme=blood_dark&hide_border=true" />
+### 💻 Tech Stack & Creative Tools
+*Ye wo tools hain jinse main magic create karta hoon:*
+
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Languages** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> |
+| **Frontend** | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&border=1" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> |
+| **Tools** | <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" /> |
+
+---
+
+### 📊 GitHub Activity
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ritesh-builds-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh-builds-dev&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ### 📫 Connect With Me
-Let's build something amazing together!
+*Always open to talk about tech!*
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ritesh.rc.in@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
@@ -46,6 +47,7 @@ Let's build something amazing together!
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](YOUR_FACEBOOK_LINK)
 
 ---
+
 
 
 

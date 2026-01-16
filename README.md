@@ -1,26 +1,21 @@
 <h1 align="center">⚡ Ritesh Choudhary</h1>
-
 <p align="center">
 Frontend Developer | HTML, CSS, JavaScript
 </p>
 
 ---
 
-## 🚀 Profile Overview
-
-| Field | Details |
-|------|--------|
-| Focus | Frontend Web Development |
-| Current Work | Creating modern web layouts |
-| Learning | JavaScript logic & React components |
-| Location | Mumbai, India |
+## 🚀 About Me
+I am focused on building clean, responsive web interfaces using modern frontend practices.  
+Currently improving JavaScript logic and learning React through hands-on projects.
 
 ---
 
 ## 🧭 My Digital Journey
+> Building the web, one tag at a time.
 
 | Goal | Status |
-|-----|-------|
+|-----|--------|
 | Current | Creating Modern Web Layouts |
 | Mastered | Semantic HTML5 & Web Structure |
 | Next Step | JavaScript Logic & React Components |
@@ -29,6 +24,7 @@ Frontend Developer | HTML, CSS, JavaScript
 ---
 
 ## 🧰 Tech Stack & Creative Tools
+*Ye wo tools hain jinse main kaam karta hoon:*
 
 | Category | Skills & Tools |
 |---------|---------------|
@@ -39,36 +35,25 @@ Frontend Developer | HTML, CSS, JavaScript
 
 ---
 
-## 📌 Current Focus
-
-| Area | Description |
-|-----|-------------|
-| Practice | Building responsive frontend projects |
-| Improvement | JavaScript problem solving |
-| Next Target | React through real projects |
+## 📌 What I Am Working On
+- Building responsive frontend projects  
+- Improving JavaScript problem solving  
+- Learning React with real components  
 
 ---
 
 ## 📊 GitHub Activity
-
-| Stats | Overview |
-|------|----------|
-| Profile Stats | ![](https://github-readme-stats.vercel.app/api?username=ritesh-builds-dev&show_icons=true&theme=tokyonight&hide_border=true) |
-| Top Languages | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh-builds-dev&layout=compact&theme=tokyonight&hide_border=true) |
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ritesh-builds-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh-builds-dev&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🔗 Connect With Me
-
-| Platform | Link |
-|--------|------|
-| Email | your-email@gmail.com |
-| LinkedIn | https://www.linkedin.com/in/your-linkedin |
-
----
-
-## ⚡ Dev Note
-
-| Thought |
-|--------|
-| Focused on learning, building, and improving with real projects. |
+<p align="center">
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin">
+    <img src="https://img.sh

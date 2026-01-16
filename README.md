@@ -5,14 +5,14 @@
 </p>
 
 ### 🎓 About Me
-- 👨‍💻 **Student:** Currently learning Web Development.
-- 📚 **Course:** Enrolled in **The Ultimate Web Development Course** by CodeWithHarry.
-- 🎯 **Current Focus:** Mastered **HTML** and now deep diving into **CSS**.
+- 👨‍💻 **Web Developer** focused on building clean and functional websites.
+- ✅ **Mastered:** HTML5 (Expertise in semantic tags and structure).
+- 🚀 **Currently Building:** Projects using CSS3 and Modern Layouts.
 - 📍 Based in **Mumbai, India**.
 
 ---
 
-### 🛠️ My Tech Stack (Currently Learning)
+### 🛠️ Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -21,10 +21,10 @@
 
 ---
 
-### 📊 My GitHub Activity
+### 📊 GitHub Activity
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ritesh-builds-dev&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh-builds-dev&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ritesh-builds-dev&show_icons=true&theme=dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh-builds-dev&layout=compact&theme=dark" />
 </p>
 
 ---

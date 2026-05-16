@@ -1,52 +1,45 @@
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!--         RITESH CHOUDHARY — GITHUB PROFILE README v6.0 FINAL      -->
+<!--         RITESH CHOUDHARY — GITHUB PROFILE README v7.0 FINAL      -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--                     ✦  TOP HERO SECTION  ✦                        -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━  TOP HERO BANNER  ━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
 
 <!-- Gold accent line -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a12,48:c9a84c,50:e2c27d,52:c9a84c,100:0a0a12&height=3"/>
 
-<!-- Main Hero — shark type for extreme dramatic effect -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&height=300&text=Ritesh%20Choudhary&fontSize=82&color=0:060610,15:0a0f1e,40:0d1b2a,60:0a0f1e,85:060610,100:040408&fontColor=e2c27d&stroke=b8962e&strokeWidth=2&animation=fadeIn&desc=Full%20Stack%20Web%20Developer%20%E2%80%94%20MERN%20%C2%B7%20Next.js%20%C2%B7%20TypeScript&descSize=20&descAlignY=76&fontAlignY=44&rotate=0"/>
+<!-- Main Hero Banner — shark style -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&height=280&text=Ritesh%20Choudhary&fontSize=80&color=0:060610,20:0a0f1e,50:0d1b2a,80:0a0f1e,100:060610&fontColor=e2c27d&stroke=b8962e&strokeWidth=2&animation=fadeIn&desc=Full%20Stack%20Web%20Developer%20%E2%80%94%20MERN%20%C2%B7%20Next.js%20%C2%B7%20TypeScript&descSize=20&descAlignY=75&fontAlignY=44"/>
 
 <!-- Gold accent line -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a12,48:c9a84c,50:e2c27d,52:c9a84c,100:0a0a12&height=3"/>
 
 <br/><br/>
 
-<!-- Animated Typing — personality lines -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=1800&pause=700&color=E2C27D&center=true&vCenter=true&width=860&lines=⚡+Full+Stack+Developer+%7C+MERN+%2B+Next.js+%2B+TypeScript;🧠+I+architect+backends+and+craft+pixel-perfect+UIs;🚀+From+schema+to+deployment+—+I+own+the+entire+stack;🎯+Clean+code+isn't+optional.+It's+a+standard.;💡+Every+problem+has+an+elegant+solution.+I+find+it." alt="Typing SVG" />
+<!-- Typing Animation — only here, confirmed working on GitHub -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=1800&pause=700&color=E2C27D&center=true&vCenter=true&width=860&lines=⚡+Full+Stack+Developer+%7C+MERN+%2B+Next.js+%2B+TypeScript;🧠+I+architect+backends+and+craft+pixel-perfect+UIs;🚀+From+schema+to+deployment+—+I+own+the+entire+stack;🎯+Clean+code+isn%27t+optional.+It%27s+a+standard.;💡+Every+problem+has+an+elegant+solution.+I+find+it." alt="Typing SVG" />
 
 <br/><br/>
 
-<!-- Status row -->
-<img src="https://komarev.com/ghpvc/?username=ritesh-builds-dev&label=👁+Profile+Views&color=0d1117&style=flat-square&labelColor=b8962e"/>
-&nbsp;
-<img src="https://img.shields.io/badge/⚡_Status-Open%20To%20Work-0d1117?style=flat-square&labelColor=1a7a3a"/>
-&nbsp;
-<img src="https://img.shields.io/badge/📍_Based-Mumbai%2C%20India-0d1117?style=flat-square&labelColor=b8962e"/>
+<!-- Status Badges — shields.io, 100% reliable -->
+<img src="https://komarev.com/ghpvc/?username=ritesh-builds-dev&label=Profile+Views&color=0d1117&style=flat-square&labelColor=b8962e"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Status-Open%20To%20Work-0d1117?style=flat-square&labelColor=1a7a3a"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Based-Mumbai%2C%20India-0d1117?style=flat-square&labelColor=b8962e"/>
 
 </div>
 
 <br/>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--                       ✦  ABOUT ME  ✦                              -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+---
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=99999&color=E2C27D&center=true&vCenter=true&width=500&lines=〔+About+Me+〕" alt="About Me"/>
-</div>
+<!-- ━━━━━━━━━━━━━━━━━━━━━━  ABOUT ME  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-<br/>
+## ⚡ About Me
 
-<img align="right" width="370" src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg"/>
 
 ```typescript
 const ritesh: FullStackDeveloper = {
@@ -80,50 +73,40 @@ const ritesh: FullStackDeveloper = {
 
 <br clear="right"/>
 
-<br/>
+---
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--                     ✦  TECH STACK  ✦                              -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━  TECH STACK  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=99999&color=E2C27D&center=true&vCenter=true&width=500&lines=〔+Tech+Stack+〕" alt="Tech Stack"/>
-
-<br/><br/>
-
 <table>
 
-  <!-- LANGUAGES -->
   <tr>
-    <td align="center" colspan="4">
-      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3000&pause=99999&color=b8962e&center=true&vCenter=true&width=300&lines=✦+Languages+✦" alt="Languages"/>
-    </td>
+    <td align="center" colspan="4"><b>— Languages —</b></td>
   </tr>
   <tr>
-    <td align="center" width="120">
+    <td align="center" width="130">
       <img src="https://skillicons.dev/icons?i=html" width="55"/><br/>
       <sub><b>HTML5</b></sub>
     </td>
-    <td align="center" width="120">
+    <td align="center" width="130">
       <img src="https://skillicons.dev/icons?i=css" width="55"/><br/>
       <sub><b>CSS3</b></sub>
     </td>
-    <td align="center" width="120">
+    <td align="center" width="130">
       <img src="https://skillicons.dev/icons?i=js" width="55"/><br/>
       <sub><b>JavaScript</b></sub>
     </td>
-    <td align="center" width="120">
+    <td align="center" width="130">
       <img src="https://skillicons.dev/icons?i=ts" width="55"/><br/>
       <sub><b>TypeScript</b></sub>
     </td>
   </tr>
 
-  <!-- FRONTEND -->
   <tr>
-    <td align="center" colspan="4"><br/>
-      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3000&pause=99999&color=b8962e&center=true&vCenter=true&width=300&lines=✦+Frontend+✦" alt="Frontend"/>
-    </td>
+    <td align="center" colspan="4"><br/><b>— Frontend —</b></td>
   </tr>
   <tr>
     <td align="center">
@@ -144,11 +127,8 @@ const ritesh: FullStackDeveloper = {
     </td>
   </tr>
 
-  <!-- BACKEND & DATABASE -->
   <tr>
-    <td align="center" colspan="4"><br/>
-      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3000&pause=99999&color=b8962e&center=true&vCenter=true&width=300&lines=✦+Backend+%26+Database+✦" alt="Backend"/>
-    </td>
+    <td align="center" colspan="4"><br/><b>— Backend &amp; Database —</b></td>
   </tr>
   <tr>
     <td align="center">
@@ -169,11 +149,8 @@ const ritesh: FullStackDeveloper = {
     </td>
   </tr>
 
-  <!-- TOOLS -->
   <tr>
-    <td align="center" colspan="4"><br/>
-      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3000&pause=99999&color=b8962e&center=true&vCenter=true&width=300&lines=✦+Tools+%26+Platforms+✦" alt="Tools"/>
-    </td>
+    <td align="center" colspan="4"><br/><b>— Tools &amp; Platforms —</b></td>
   </tr>
   <tr>
     <td align="center">
@@ -198,62 +175,82 @@ const ritesh: FullStackDeveloper = {
 
 </div>
 
-<br/>
+---
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--                   ✦  GITHUB ANALYTICS  ✦                          -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━  GITHUB ANALYTICS  ━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=99999&color=E2C27D&center=true&vCenter=true&width=500&lines=〔+GitHub+Analytics+〕" alt="GitHub Analytics"/>
+<br />
+
+<img
+  width="100%"
+  alt="GitHub profile summary"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ritesh-builds-dev&theme=gruvbox"
+/>
+
+<br />
+
+<img
+  width="49%"
+  alt="GitHub productive time"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ritesh-builds-dev&theme=gruvbox&utcOffset=5.5"
+/>
+<img
+  width="49%"
+  alt="GitHub most used languages"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ritesh-builds-dev&theme=gruvbox"
+/>
+
+<br /><br />
+
+<img
+  width="100%"
+  alt="Gold divider"
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a12,48:c9a84c,50:e2c27d,52:c9a84c,100:0a0a12&height=3"
+/>
+
+</div>
+
 
 <br/><br/>
 
-<!-- Stats + Languages -->
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=ritesh-builds-dev&show_icons=true&title_color=e2c27d&icon_color=e2c27d&text_color=c9d1d9&bg_color=0d1117&border_color=b8962e&count_private=true&include_all_commits=true&rank_icon=github&hide_border=false"/>
-&nbsp;
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh-builds-dev&layout=compact&title_color=e2c27d&text_color=c9d1d9&bg_color=0d1117&border_color=b8962e&langs_count=8&hide_border=false"/>
+<div align="center" style="margin-top: 20px;">
+  <img
+    width="92%"
+    alt="GitHub streak stats"
+    src="https://streak-stats.demolab.com?user=ritesh-builds-dev&background=0D1117&border=B8962E&ring=E2C27D&fire=F0A500&currStreakLabel=E2C27D&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=8B949E&hide_border=false"
+  />
+</div>
+
 
 <br/><br/>
 
-<!-- Streak -->
-<img width="70%" src="https://streak-stats.demolab.com?user=ritesh-builds-dev&background=0d1117&border=b8962e&ring=e2c27d&fire=f0a500&currStreakLabel=e2c27d&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=c9d1d9&dates=8b949e&hide_border=false"/>
-
-<br/><br/>
-
-<!-- Activity Graph -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ritesh-builds-dev&bg_color=0d1117&color=e2c27d&line=e2c27d&point=f0a500&area=true&area_color=1c1a0a&hide_border=false&border_color=b8962e&radius=6&title_color=e2c27d"/>
 
 </div>
 
-<br/>
+---
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--                    ✦  DEV QUOTE  ✦                                -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━  DEV QUOTE  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+## 💬 Dev Quote
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=99999&color=E2C27D&center=true&vCenter=true&width=500&lines=〔+Today%27s+Dev+Quote+〕" alt="Dev Quote"/>
-
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true"/>
+<img width="90%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3200&pause=1200&color=E2C27D&center=true&vCenter=true&width=950&lines=Clean+code+is+not+a+skill.+It%E2%80%99s+a+mindset.;Build+systems+that+scale%2C+not+just+projects.;Elegance+in+software+creates+real+impact."/>
 
 </div>
 
-<br/>
+---
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--                    ✦  LET'S CONNECT  ✦                            -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━  LET'S CONNECT  ━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+## 🤝 Let's Connect
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=99999&color=E2C27D&center=true&vCenter=true&width=500&lines=〔+Let%27s+Connect+〕" alt="Connect"/>
-
-<br/><br/>
 
 <a href="mailto:your.email@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -275,17 +272,17 @@ const ritesh: FullStackDeveloper = {
 
 <br/>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--                  ✦  EXTREME BOTTOM BANNER  ✦                      -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+---
+
+<!-- ━━━━━━━━━━━━━━━━━━━━  BOTTOM HERO BANNER  ━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
 
 <!-- Gold accent line -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a12,48:c9a84c,50:e2c27d,52:c9a84c,100:0a0a12&height=3"/>
 
-<!-- Bottom hero — shark inverse for cinematic close -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&height=200&section=footer&text=Thanks%20for%20visiting%20%E2%80%94%20Let%27s%20build%20something%20remarkable.&fontSize=20&fontColor=e2c27d&color=0:040408,15:060610,40:0a0f1e,60:0d1b2a,85:0a0f1e,100:040408&animation=fadeIn&fontAlignY=62&stroke=b8962e&strokeWidth=1"/>
+<!-- Bottom shark banner — inverse -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&height=200&section=footer&text=Thanks%20for%20visiting%20%E2%80%94%20Let%27s%20build%20something%20remarkable.&fontSize=20&fontColor=e2c27d&color=0:040408,20:060610,50:0a0f1e,80:060610,100:040408&animation=fadeIn&fontAlignY=62&stroke=b8962e&strokeWidth=1"/>
 
 <!-- Gold accent line -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a12,48:c9a84c,50:e2c27d,52:c9a84c,100:0a0a12&height=3"/>

@@ -16,11 +16,12 @@
 <!-- Gold accent line -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a12,48:c9a84c,50:e2c27d,52:c9a84c,100:0a0a12&height=3"/>
 
-<br/><br/>
+<br/>
 
 <!-- Typing Animation — only here, confirmed working on GitHub -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=1800&pause=700&color=E2C27D&center=true&vCenter=true&width=860&lines=⚡+Full+Stack+Developer+%7C+MERN+%2B+Next.js+%2B+TypeScript;🧠+I+architect+backends+and+craft+pixel-perfect+UIs;🚀+From+schema+to+deployment+—+I+own+the+entire+stack;🎯+Clean+code+isn%27t+optional.+It%27s+a+standard.;💡+Every+problem+has+an+elegant+solution.+I+find+it." alt="Typing SVG" />
-
+<img 
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=1800&pause=700&color=E2C27D&center=true&vCenter=true&width=920&lines=Full+Stack+Developer+%7C+MERN+%2B+Next.js+%2B+TypeScript;I+architect+backends+and+craft+pixel-perfect+UIs;From+schema+to+deployment+I+own+the+entire+stack;Clean+code+is+not+optional.+It+is+a+standard.;Every+problem+has+an+elegant+solution.+I+find+it." 
+alt="Typing SVG" />
 <br/><br/>
 
 <!-- Status Badges — shields.io, 100% reliable -->

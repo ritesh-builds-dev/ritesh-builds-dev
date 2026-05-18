@@ -184,18 +184,12 @@ const ritesh: FullStackDeveloper = {
 
 <img width="100%" alt="Profile Details" src="https://github-profile-summary-cards-seven.vercel.app/api/cards/profile-details?username=ritesh-builds-dev&theme=gruvbox" />
 
-<br />
+<br /><br />
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="50%">
-      <img width="100%" alt="Productive Time" src="https://github-profile-summary-cards-seven.vercel.app/api/cards/productive-time?username=ritesh-builds-dev&theme=gruvbox&utcOffset=5.5" />
-    </td>
-    <td width="50%">
-      <img width="100%" alt="Most Used Languages" src="https://github-profile-summary-cards-seven.vercel.app/api/cards/most-commit-language?username=ritesh-builds-dev&theme=gruvbox" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img width="49.5%" alt="Productive Time" src="https://github-profile-summary-cards-seven.vercel.app/api/cards/productive-time?username=ritesh-builds-dev&theme=gruvbox&utcOffset=5.5" />
+  <img width="49.5%" alt="Most Used Languages" src="https://github-profile-summary-cards-seven.vercel.app/api/cards/most-commit-language?username=ritesh-builds-dev&theme=gruvbox" />
+</p>
 
 <br /><br />
 

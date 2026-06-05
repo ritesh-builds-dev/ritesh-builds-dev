@@ -204,16 +204,6 @@ const ritesh: FullStackDeveloper = {
 
 <br/><br/>
 
-<div align="center" style="margin-top: 20px;">
-  <img
-    width="92%"
-    alt="GitHub streak stats"
-    src="https://streak-stats.demolab.com?user=ritesh-builds-dev&background=0D1117&border=B8962E&ring=E2C27D&fire=F0A500&currStreakLabel=E2C27D&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=8B949E&hide_border=false"
-  />
-</div>
-
-
-<br/><br/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ritesh-builds-dev&bg_color=0d1117&color=e2c27d&line=e2c27d&point=f0a500&area=true&area_color=1c1a0a&hide_border=false&border_color=b8962e&radius=6&title_color=e2c27d"/>
 
